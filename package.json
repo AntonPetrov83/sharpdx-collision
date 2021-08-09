@@ -1,0 +1,24 @@
+{
+  "name": "com.sharpdx.collision",
+  "displayName": "SharpDX Collision",
+  "version": "0.1.0-preview.1",
+  "unity": "2020.3",
+  "unityRelease": "0f1",
+  "description": "SharpDX collision utilities for Unity.",
+  "category": "Tool",
+  "type": "tool",
+  "license": "MIT",
+  "author": {
+    "name": "Anton Petrov",
+    "email": "",
+    "url": ""
+  },
+  "dependencies": {
+  },
+  "keywords": [
+    "SharpDX",
+    "Collision",
+    "Scripts",
+    "Tool"
+  ]
+}
